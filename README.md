@@ -44,7 +44,7 @@ The above command will basically run this command from package.json
 ### APP Workflow
 
 <p align="center">
-<img src="https://iili.io/hNyiTF.md.jpg" alt="Main App" width="60%" />
+<img src="https://iili.io/jolRje.md.jpg" alt="Main App" width="60%" />
 </p>
 
 1. **Login**: User Authentication screen, upon successful login user credentials are saved along with **JWT** **Token** and its expiry. App automatically re-logins the user in background with the same credential iff the token is expired. Thus maintaining the logged-in state all the time.
